@@ -1,0 +1,16 @@
+td {
+    height: 50px;
+    padding-left: 10px;
+}
+
+.table-head-container .table-head:not(:first-child) {
+    padding-left: 30px;
+}
+
+.table-head{
+    width: 180px;
+    height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    padding-left: 10px;
+}

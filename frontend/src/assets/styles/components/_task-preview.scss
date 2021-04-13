@@ -1,0 +1,25 @@
+.table-container {
+   max-width: 1120px;
+    border: 1px solid lightgray;
+}
+
+td {
+    width: 180px;
+    margin: 0 auto;
+    border-top: 1px solid lightgrey;
+
+}
+
+.td-title {
+position: relative
+}
+
+.description {
+position: absolute;
+    top: 0;
+    left: 175px;
+    padding: 10px;
+    width: fit-content;
+    background-color:lightblue;
+    opacity: 0.9;
+}
